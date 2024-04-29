@@ -1,0 +1,9 @@
+name: 'my joke action'
+
+description: 'use an external API tp retrieve and display a joke'
+
+runs:
+  using: 'node12'
+  main: 'main.js'
+
+  
